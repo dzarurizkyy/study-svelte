@@ -1,4 +1,4 @@
-# Svelte RestFul API
+# Svelte RESTFul API
 This is a frontend project built with **SvelteKit 5** that connects to a REST API backend to manage contacts and their addresses.
 
 ## About 🧩
