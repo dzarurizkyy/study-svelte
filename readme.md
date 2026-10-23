@@ -58,8 +58,7 @@ This repository contains a comprehensive reference guide for Svelte — covering
 
 ## 📍 References
 
-- [Svelte Docs](https://svelte.dev/docs/svelte/overview)
-- [SvelteKit Docs](https://svelte.dev/docs/kit/introduction)
+- [Udemy](https://www.udemy.com/course/belajar-svelte)
 
 ## 👨‍💻 Contributors
 
